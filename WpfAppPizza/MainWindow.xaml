@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:WpfAppPizza"
         
         mc:Ignorable="d"
-        Title="Pizza Bestellservice" Height="1007" Width="800">
+        Title="Pizza Bestellservice " Height="1007" Width="800">
     <Grid Margin="10,10,2,10">
         <Grid.RowDefinitions>
             <RowDefinition ></RowDefinition>

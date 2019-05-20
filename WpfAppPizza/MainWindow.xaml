@@ -34,7 +34,7 @@
             </Image.Source>
 
         </Image>
-        <TextBlock Grid.Column="1" Text="Unser Lieferservice" FontSize="20" TextAlignment="Center" Margin="30"/>
+        <TextBlock Grid.Column="1" Text="Unser Lieferservices" FontSize="20" TextAlignment="Center" Margin="30"/>
         <Image Grid.Column="2">
             <Image.Source>
                 <BitmapImage DecodePixelWidth="800" UriSource="C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\bin\Debug\logor.jpg" />
